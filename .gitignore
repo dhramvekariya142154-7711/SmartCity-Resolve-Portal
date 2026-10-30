@@ -1,0 +1,7 @@
+# Web Application GitIgnore
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+.idea/
